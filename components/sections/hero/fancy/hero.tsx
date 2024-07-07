@@ -33,9 +33,9 @@ function Hero() {
               <p>to code</p>
             </div>
           </div>
-          <div className="relative aspect-[4/2] w-screen">
+          <div className="relative aspect-[4/3] w-screen">
             <Image
-              src={'/images/hero.jpg'}
+              src={'/images/dp.png'}
               style={{ objectFit: 'cover' }}
               alt="img"
               fill

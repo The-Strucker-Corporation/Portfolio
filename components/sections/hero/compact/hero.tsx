@@ -22,11 +22,11 @@ function Hero() {
         </div>
         <Image
           alt="Image"
-          className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center"
+          className="aspect-image mx-auto overflow-hidden rounded-xl object-fill object-center"
           height="450"
           sizes="100vw"
-          src={'/images/hero.jpg'}
-          width="800"
+          src={'/images/dp.png'}
+          width="450"
           priority={true}
         />
       </div>
