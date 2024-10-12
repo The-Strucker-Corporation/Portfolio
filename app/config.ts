@@ -2,13 +2,13 @@ import { Metadata } from '@/types/metadata';
 
 const metadata: Metadata = {
   author: {
-    name: 'Lennox Matwere',
+    name: 'Nerville Ghali',
     username: 'theyardmic',
     label: 'Developer and Engineer'
   },
   site: {
-    title: 'Lennox Matwere - Portfolio Website',
-    description: 'Portfolio of web & UI designer/developer Lennox Matwere.',
+    title: 'Nerville Ghali - Portfolio Website',
+    description: 'Portfolio of web & UI designer/developer Nerville Ghali.',
     ogImage: '/images/og.png',
     url: 'https://www.example.com',
     keywords: [
@@ -16,7 +16,7 @@ const metadata: Metadata = {
       'UI design',
       'web development',
       'portfolio',
-      'Lennox Matwere'
+      'Nerville Ghali'
     ],
     language: 'en',
     charset: 'UTF-8'
